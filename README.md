@@ -49,5 +49,5 @@ Null hypothesis could not be rejected!
 
 ``` 
 
-Therefore the null hypothesis could not be rejected, and then we can not affirm that there is no 
+Therefore the null hypothesis could not be rejected, and then we can not affirm that there is 
 significant differences.
